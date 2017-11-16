@@ -1,2 +1,2 @@
 # notes
-Notes for lectures
+I'm putting notes here now!
