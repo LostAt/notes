@@ -9,7 +9,9 @@ Install WAMP if using Windows
 http://www.wampserver.com/en/
 
 If using Ubuntu, you can install MySQL via package manager. However I would recommend installing the lamp stack.
-` sudo apt-get install lamp`
+```
+sudo apt-get install lamp
+```
 
 ## Getting Started
 
